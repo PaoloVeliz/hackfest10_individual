@@ -1,7 +1,7 @@
 
 
 if __name__ == "__main__":
-    f = open("dataejercicio1.txt", "r")
+    f = open("data.txt", "r")
     data = []
     x = 0
     result = 0
